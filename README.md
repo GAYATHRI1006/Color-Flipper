@@ -1,12 +1,13 @@
 # Color Flipper
 
 A simple and fun web application that changes the background color to a random HEX value when a button is clicked.
+
 🔗 **Live Demo**: [Click Here to Visit](https://color-flipper-sample.netlify.app/)
 
 ## Developed By
 **Gayathri G**  
-GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ## Features
 
@@ -19,8 +20,6 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 - **HTML5**  
 - **CSS3**  
 - **JavaScript **
-
----
 
 ## Screenshot
 
